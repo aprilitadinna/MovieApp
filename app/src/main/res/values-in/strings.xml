@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Film Tayang Sekarang</string>
+    <string name="app_name_detail">Detail Film</string>
+    <string name="author">Pembuat : (16.11.0188)</string>
+    <string name="deskripsi_titikdua">Deskripsi :</string>
+    <string name="judul_titikdua">Judul :</string>
+    <string name="tahun_titikdua">Tahun Rilis :</string>
+    <string name="gantibahasa">Ganti Bahasa</string>
+</resources>

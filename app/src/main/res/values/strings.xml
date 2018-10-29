@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Now Playing Movie</string>
+    <string name="app_name_detail">Movie Detail</string>
+    <string name="deskripsi_titikdua">Description :</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="judul_titikdua">Title :</string>
+    <string name="tahun_titikdua">Release Date :</string>
+    <string name="Pengaturan_Bahasa">Language Setting</string>
+</resources>
